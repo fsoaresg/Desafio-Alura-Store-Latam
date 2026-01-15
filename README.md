@@ -1,5 +1,7 @@
 # Desafio Alura Store Latam
 
+---
+
 ## Descripción del proyecto
 
 El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos que ayude al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, se analizan datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store.
@@ -108,11 +110,17 @@ Basado en los indicadores de ingresos, satisfacción y eficiencia global, la Tie
 ## Estructura del repositorio
 
 ├── Challenge-Alura-Store.ipynb # Cuaderno de Colab con análisis completo
+
 ├── README.md # Este archivo
+
 ├── base-de-datos-alura-store-latam/
+
 │ ├── tienda_1.csv
+
 │ ├── tienda_2.csv
+
 │ ├── tienda_3.csv
+
 │ └── tienda_4.csv
 
 ---
