@@ -1,3 +1,5 @@
+---
+
 # Desafio Alura Store Latam
 
 ---
@@ -81,10 +83,14 @@ Se analizaron las ventas de las 4 tiendas:
 
 **Observaciones de la Tienda 4:**
 
-- Menor ingreso total y menor contribución financiera.
+- Presenta el menor ingreso total de las cuatro tiendas.
+- No destaca en la venta de categorías clave ni en la rotación de productos.
+- Tiene una calificación promedio inferior, reflejando una menor satisfacción del cliente.
+- Sus productos más vendidos no alcanzan el nivel de desempeño observado en otras tiendas.
 - Productos con baja rotación, principalmente en **Instrumentos musicales** y **Electrodomésticos**.
-- Calificación promedio inferior, reflejando menor satisfacción del cliente.
-- Incluso vendedores con buen historial en otras sucursales muestran bajo desempeño, lo que sugiere problemas operativos o logísticos.
+- Aunque posee el costo de envío más bajo, este factor no compensa sus debilidades en ingresos y experiencia del cliente.
+- Incluso vendedores con buen historial en otras sucursales, como Pedro Gomez, muestran bajo desempeño, lo que sugiere problemas operativos o logísticos.
+- Muestra la menor eficiencia global dentro del portafolio.
 
 ---
 
